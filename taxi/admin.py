@@ -34,4 +34,3 @@ class DriverAdmin(UserAdmin):
             )
         }),
     )
-    pass
